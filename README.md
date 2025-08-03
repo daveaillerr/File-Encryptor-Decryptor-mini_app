@@ -7,9 +7,9 @@ I created a simple mini-app in Python that encrypts and decrypts text files usin
 
 This was a small but fun project I took on to learn more about Python, GUI development, and the basics of cryptography. It helped me understand how secure data handling works, how to manage encryption keys safely, and how to create user-friendly interfaces using CustomTkinter.
 
-![Demo main page](image.png)
+![Demo main page](Demo_Main.png)
 
-![Demo Success](image-2.png)
+![Demo Success](Demo_Success.png)
 
 # Fernet (Symmetric Encryption)
 While browsing the internet one day, an idea struck me. I wanted to understand what cryptography really is and how I could implement it myself. That led me down, where I eventually stumbled upon Fernet's symmetric encryption.
