@@ -1,6 +1,3 @@
-# File-Encryptor-Decryptor---mini_app
-I created a simple symmetric encryptor/decryptor for text files using Python's CustomTkinter and Fernet cryptography.
-=======
 # Text Encrpytor & Decryptor 
 
 I created a simple mini-app in Python that encrypts and decrypts text files using symmetric encryption. I used CustomTkinter to build the GUI and Fernet (from the cryptography library) for the encryption and decryption logic.
